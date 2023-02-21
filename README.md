@@ -13,7 +13,7 @@ __Α.Μ.__: sdi1900061
 
 Ένα client-server model, όπου ο σέρβερ εξυπηρετεί εν δυνάμει πολλαπλούς clients με χρήση pthreads. Oι clients επικοινωνούν με τον server μέσω sockets και ζητάνε την αντιγραφή ενός directory του server με όλα τα περιεχόμενα του.
 
-[Αναλυτική Εκφώνηση]()
+[Αναλυτική Εκφώνηση](https://github.com/KonstantinosZach/ServerClient-DirectoryTransfering/blob/main/SysPro_hw2-spring-2022.pdf)
 
 Το project έγινε στο πλαίσιο του μαθήματος [Κ24:Προγραμματισμός Συστήματος](https://cgi.di.uoa.gr/~mema/courses/k24/k24.html)
 
